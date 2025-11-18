@@ -7,8 +7,9 @@
 *Building impactful software solutions while bridging the gap between engineering excellence and real-world customer needs*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mikenson.bubbleapps.io/version-test)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mikenson-mesidor-6628ab1a9)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesidormikenson@gmail.com
+)
 
 </div>
 
@@ -114,17 +115,15 @@ I bring a **unique combination** that's perfect for client-facing technical role
 
 ---
 
-### 🧵 [eSARTOR](https://mikenson.bubbleapps.io/version-test)
-**AI-Powered Tailoring Platform**
+### 🧵 [eSARTOR](https://www.esartor.com/)
+**SAAS Tailoring Platform**
 - Connects customers with skilled tailors for custom clothing
 - Streamlines ordering, measurements, and delivery
-- **Tech Stack**: Bubble.io, AI integration, payment processing
 
 ### ⛽ PropaneGo
 **On-Demand Propane Delivery App**
-- Revolutionizing gas distribution in Haiti
+- Revolutionizing gas distribution in DR and Haiti
 - Real-time tracking and delivery optimization
-- **Tech Stack**: Bubble.io, geolocation APIs, logistics automation
 
 ### 🔐 [Cybersecurity Portfolio](https://github.com/Miken2001/Portfolio)
 **Security Projects & Learning Journey**
@@ -185,8 +184,8 @@ I'm always open to interesting conversations and collaboration opportunities, es
 - Open-source contributions
 - Mentorship from senior engineers
 
-📧 **Email**: [YOUR_EMAIL](mailto:YOUR_EMAIL)
-💼 **LinkedIn**: [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
+📧 **Email**: [YOUR_EMAIL](mailto:mesidormikenson@gmail.com)
+💼 **LinkedIn**: [YOUR_LINKEDIN_URL](www.linkedin.com/in/mikenson-mesidor-6628ab1a9)
 🌐 **Portfolio**: [mikenson.bubbleapps.io](https://mikenson.bubbleapps.io/version-test)
 
 ---

@@ -18,7 +18,7 @@
 
 🔭 **Currently Working On:**
 - **ViraLaunch AI** - AI-powered social media content platform with intelligent video generation and multi-platform scheduling
-- **eSARTOR** - AI-powered tailoring platform connecting customers with skilled tailors
+- **eSARTOR** - Tailoring platform connecting customers with skilled tailors
 - **PropaneGo** - On-demand propane delivery app revolutionizing gas distribution in Haiti
 
 🤝 **Looking to Collaborate On:**

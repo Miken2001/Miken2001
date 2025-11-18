@@ -17,9 +17,9 @@
 ## 🚀 About Me
 
 🔭 **Currently Working On:**
+- **ViraLaunch AI** - AI-powered social media content platform with intelligent video generation and multi-platform scheduling
 - **eSARTOR** - AI-powered tailoring platform connecting customers with skilled tailors
 - **PropaneGo** - On-demand propane delivery app revolutionizing gas distribution in Haiti
-- Building full-stack applications with modern web technologies
 
 🤝 **Looking to Collaborate On:**
 - Security tooling and DevSecOps projects
@@ -48,7 +48,8 @@ I bring a **unique combination** that's perfect for client-facing technical role
 - **✅ Technical Expertise**: Full-stack development, security tooling, cloud architecture
 - **✅ Customer-Facing Skills**: 2+ years customer service & technical translation experience
 - **✅ Cultural Adaptability**: Fluent in English, French, and Haitian Creole
-- **✅ Problem-Solving**: Built real products (eSARTOR, PropaneGo) addressing market needs
+- **✅ Problem-Solving**: Built real products (ViraLaunch AI, eSARTOR, PropaneGo) addressing market needs
+- **✅ Production Experience**: Deployed full-stack SaaS application on AWS with real users and payment processing
 - **✅ Leadership**: Proven track record leading technical teams in high-pressure environments
 
 ---
@@ -56,26 +57,62 @@ I bring a **unique combination** that's perfect for client-facing technical role
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Platforms & Tools
-![Bubble.io](https://img.shields.io/badge/Bubble.io-0052CC?style=for-the-badge&logo=bubble&logoColor=white)
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+![Bubble.io](https://img.shields.io/badge/Bubble.io-0052CC?style=for-the-badge&logo=bubble&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Security & DevOps
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![TCPDump](https://img.shields.io/badge/TCPDump-000000?style=for-the-badge&logo=tcpdump&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
 ## 🎨 Featured Projects
+
+### 🚀 [ViraLaunch AI](YOUR_VIRALAUNCH_DEMO_URL)
+**AI-Powered Social Media Content Platform**
+> Production SaaS application helping creators generate viral TikTok content with AI
+
+**Key Features:**
+- 🎬 Multi-provider video generation (HeyGen, Creatomate, Pictory) with intelligent routing
+- 📅 30-day content calendar with automated scheduling across platforms
+- 🔐 OAuth integrations (Google, Facebook, TikTok, Instagram, Twitter/X)
+- 💳 Stripe payment processing with subscription management
+- 🤖 Background job queues (Bull + Redis) with 10 automated cron schedules
+
+**Tech Stack:**
+- **Frontend**: React 19, TypeScript, Vite 6, React Router
+- **Backend**: Node.js, Express, TypeScript, Prisma ORM
+- **Database**: PostgreSQL (AWS RDS)
+- **Infrastructure**: AWS Amplify (frontend), Elastic Beanstalk (backend), Redis (ElastiCache)
+- **Integrations**: Gemini AI, Stripe, AWS Cognito, AWS SES, PostHog Analytics
+
+**Architecture Highlights:**
+- Full-stack monorepo with separate git repositories
+- Microservices-style background automation (7 job processors)
+- Multi-region AWS deployment with load balancing
+- Real-time analytics and performance tracking
+
+---
 
 ### 🧵 [eSARTOR](https://mikenson.bubbleapps.io/version-test)
 **AI-Powered Tailoring Platform**
@@ -121,9 +158,10 @@ I bring a **unique combination** that's perfect for client-facing technical role
 - Customer Service Agent: Resolved technical issues and provided multilingual support
 - Technical Translator: Bridged communication gaps in English, French, and Haitian Creole
 
-**🚀 Entrepreneurship**
-- Founder, Votre Équipe (Marketing Agency) - Scaled client acquisition and campaign management
-- Developer, eSARTOR & PropaneGo - Built products solving real market problems
+**🚀 Entrepreneurship & Product Development**
+- **ViraLaunch AI**: Full-stack SaaS developer - Built and deployed production AI platform on AWS
+- **Votre Équipe**: Founder (Marketing Agency) - Scaled client acquisition and campaign management
+- **eSARTOR & PropaneGo**: Product Developer - Built solutions addressing emerging market needs
 
 ---
 
@@ -160,3 +198,5 @@ I'm always open to interesting conversations and collaboration opportunities, es
 ![Profile Views](https://komarev.com/ghpvc/?username=Miken2001&color=blueviolet&style=for-the-badge)
 
 </div>
+
+---

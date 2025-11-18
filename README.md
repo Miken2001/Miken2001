@@ -184,8 +184,8 @@ I'm always open to interesting conversations and collaboration opportunities, es
 - Open-source contributions
 - Mentorship from senior engineers
 
-📧 **Email**: [YOUR_EMAIL](mailto:mesidormikenson@gmail.com)
-💼 **LinkedIn**: [YOUR_LINKEDIN_URL](www.linkedin.com/in/mikenson-mesidor-6628ab1a9)
+📧 **Email**: [MY EMAIL](mailto:mesidormikenson@gmail.com)
+💼 **LinkedIn**: [MY LINKEDIN](www.linkedin.com/in/mikenson-mesidor-6628ab1a9)
 🌐 **Portfolio**: [mikenson.bubbleapps.io](https://mikenson.bubbleapps.io/version-test)
 
 ---

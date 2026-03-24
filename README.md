@@ -7,7 +7,8 @@
 *I build software around real problems, real users, and real execution.*
 
 ![Currently Building](https://img.shields.io/badge/Currently_Building-ViraLaunch_AI-111111?style=for-the-badge&logo=github&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Full--Stack_Product-0A66C2?style=for-the-badge)
+[![eSARTOR](https://img.shields.io/badge/Backend_Dev-eSARTOR-FF6B35?style=for-the-badge&logo=node.js&logoColor=white)](https://www.esartor.com/)
+![Focus](https://img.shields.io/badge/Focus-Full--Stack_%26_Cloud_Infrastructure-0A66C2?style=for-the-badge)
 ![Background](https://img.shields.io/badge/Background-Robotics_%26_Mobile_Building-8A2BE2?style=for-the-badge)
 
 </div>
@@ -47,6 +48,7 @@ ViraLaunch AI is what I am building right now. It is a full-stack product focuse
 | --- | --- |
 | 🚀 **Building ViraLaunch AI** | I am currently building ViraLaunch AI as a serious product, combining product thinking, full-stack engineering, AI workflows, and shipping discipline. |
 | 🤖 **FIRST Global Challenge 2019** | After a lot of hard work, learning, and failure, I became part of the official Haitian team for the 2019 First Global Challenge in Dubai. That experience strengthened my mindset around teamwork, resilience, and solving hard problems. [See Haiti 2019](https://first.global/2019-nations/haiti-2019/) |
+| 🧵 **[eSARTOR](https://www.esartor.com/) Backend Developer** | Built the backend of eSARTOR, a SaaS platform connecting customers with professional tailors. Developed RESTful APIs, database architecture (PostgreSQL), and server infrastructure using Node.js, Express, and TypeScript. |
 | 📱 **Self-learning through mobile apps** | Despite limited access to electricity and internet, I kept learning and built two mobile applications: **NS**, a repository app for my school, and **TPA**, a smaller local freelance marketplace inspired by Upwork. |
 
 ---

@@ -1,71 +1,70 @@
 <div align="center">
 
-# 👋 Hi, I'm Mikenson
+# Hi, I'm Mikenson
 
-### Full-Stack Developer & Cloud Infrastructure Administrator
+### Full-Stack Developer
 
-*I build and deploy production software on cloud infrastructure, bridging development and operations.*
+*I build complete digital products -- from UI to backend to cloud infrastructure.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mikenson.bubbleapps.io/version-test)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikenson-mesidor-6628ab1a9)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesidormikenson@gmail.com)
 
 ![Currently Building](https://img.shields.io/badge/Currently_Building-ViraLaunch_AI-111111?style=for-the-badge&logo=github&logoColor=white)
 [![eSARTOR](https://img.shields.io/badge/Backend_Dev-eSARTOR-FF6B35?style=for-the-badge&logo=node.js&logoColor=white)](https://www.esartor.com/)
-![Focus](https://img.shields.io/badge/Focus-Cloud_Infrastructure_%26_Full--Stack-0A66C2?style=for-the-badge)
-![Background](https://img.shields.io/badge/Background-Robotics_%26_Cybersecurity-8A2BE2?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Full--Stack_%26_DevOps-0A66C2?style=for-the-badge)
+![Location](https://img.shields.io/badge/Based_in-Haiti-E31B23?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### [ViraLaunch AI](https://github.com/Miken2001/viralvortex-ai) — Full-Stack Developer & Infrastructure Administrator
-**Production SaaS platform** — AI-powered social media content platform with video generation and multi-platform scheduling.
+### [ViraLaunch AI](https://viralaunch.ai) -- Full-Stack Developer & Infrastructure Admin
+**Production SaaS platform** -- AI-powered social media content creation with automated video generation, intelligent scheduling, and multi-platform posting. Live with paying customers.
 
-**Infrastructure & DevOps:**
-- Deployed and manage full AWS cloud architecture: **Elastic Beanstalk** (backend), **RDS PostgreSQL** (database), **ElastiCache Redis** (caching/queues), **Amplify** (frontend), **SES** (email)
-- CI/CD pipeline setup and automated deployments
-- Background job automation: **Bull + Redis** with 10 automated cron schedules and 7 job processors
-- Security configuration: **OAuth integrations** (Google, Facebook, TikTok, Instagram, Twitter/X), **AWS Cognito** authentication, access management
+**What I built:**
+- React 19 frontend (146 components) with TypeScript, Tailwind CSS, GSAP animations, and Recharts dashboards
+- Express.js + TypeScript backend with 18 REST API controllers and 40+ service modules
+- PostgreSQL database with 25 Prisma models, Redis caching and job queues
+- Stripe payment integration with 3-layer idempotency and webhook handling
+- OAuth flows for 6 social platforms (Google, Facebook, TikTok, Instagram, Twitter/X, GitHub)
+- 12-agent AI pipeline (Python + FastAPI) for content research and generation
+- Video generation service (Remotion) with 9 styles, TTS, and auto-captions -- $0 per video
+- Bull/Redis automation: 10 job processors + 10 cron schedules
+- JWT authentication (AWS Cognito), referral system, credit system, waitlist with drip emails
 
-**Full-Stack Development:**
-- Frontend: React 19, TypeScript, Vite 6, React Router
-- Backend: Node.js, Express, TypeScript, Prisma ORM
-- Database: PostgreSQL (AWS RDS) with Redis (ElastiCache)
-- Integrations: Gemini AI, Stripe payments, PostHog Analytics
-
----
-
-### [eSARTOR](https://www.esartor.com/) — Backend Developer
-**SaaS tailoring platform** connecting customers with professional tailors for custom clothing, alterations, and sustainable fashion.
-
-**Key contributions:**
-- Designed and implemented **RESTful APIs** for customer-tailor matching and order management
-- **Database architecture** and data modeling (PostgreSQL)
-- Payment system integration and order flow management
-- Server infrastructure deployment and maintenance
-- Tech stack: **Node.js, Express, TypeScript, PostgreSQL**
+**Infrastructure:**
+- AWS: Elastic Beanstalk, RDS PostgreSQL, ElastiCache Redis, Amplify, SES, Cognito
+- Google Cloud Run (agent + video service), Docker multi-stage builds, CI/CD pipelines
+- VPS management (Debian server administration)
 
 ---
 
-## ☁️ Infrastructure & Cloud Skills
+### [PropaneGo](https://github.com/Propaneg) -- Lead Developer
+**Gas delivery platform** for the Dominican Republic with real-time tracking, virtual debit card payments, and fleet management.
 
-| Area | Technologies |
-| --- | --- |
-| **Cloud Platforms** | AWS (Elastic Beanstalk, RDS, ElastiCache, Amplify, SES, Cognito), Azure (learning) |
-| **Server Administration** | Linux server management, environment configuration, deployment automation |
-| **Databases** | PostgreSQL, Redis — administration, optimization, backup in production |
-| **Security** | OAuth 2.0, access management, SIEM tools, threat detection, incident response |
-| **DevOps & Automation** | CI/CD pipelines, Docker, GitHub Actions, Bull job queues, cron automation |
-| **Microsoft Ecosystem** | Microsoft 365, SharePoint, Teams, Outlook — advanced proficiency |
-| **Networking** | Virtual networks, DNS, load balancing, security groups |
-| **Languages** | TypeScript, JavaScript, Python, SQL, Bash |
+- **Flutter** cross-platform mobile app with **WebSocket** real-time delivery tracking
+- **Laravel (PHP)** backend with RESTful APIs for orders and driver dispatch
+- **Firebase** integration for auth and real-time data sync
+- **Node.js** services, PostgreSQL, Lithic API (virtual debit cards)
+- Admin panel for fleet and order management
+
+Repos: [Website](https://github.com/Propaneg/propanegowebsite) | [Mobile App](https://github.com/Propaneg/propanegoapp) | [Admin Panel](https://github.com/Propaneg/propanego-panel)
 
 ---
 
-## 💻 Tech Stack
+### [eSARTOR](https://www.esartor.com/) -- Backend Developer
+**SaaS tailoring platform** connecting customers with professional tailors.
+
+- RESTful APIs for customer-tailor matching and order management
+- Database architecture and data modeling (PostgreSQL)
+- Payment system integration and order flow
+- Tech: **Node.js, Express, TypeScript, Laravel (PHP), PostgreSQL**
+
+---
+
+## Tech Stack
 
 ### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -74,60 +73,66 @@
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-### Databases & Cloud
+### Frontend & Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
+### Databases & Backend
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### Infrastructure & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### Payments & Integrations
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 
-### Security & DevOps
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Status | Certification |
-| --- | --- |
-| ✅ Completed | **Google Cybersecurity Professional Certificate** (Coursera, 2025) — Threat detection, SIEM tools, incident response, Python, Linux, SQL |
-| 📚 In Progress | **CompTIA Security+** |
-| 🎯 Planned | **Azure Administrator (AZ-104)**, **CompTIA Network+** |
+|--------|---------------|
+| Completed | **Google Cybersecurity Professional Certificate** (Coursera, 2025) |
+| In Progress | **CompTIA Security+** |
 
 ---
 
-## 🏆 Experience Highlights
+## Experience
 
 | Role | Details |
-| --- | --- |
-| 🚀 **Full-Stack Dev & Infrastructure Admin** — ViraLaunch AI (2025–present) | Built and deployed production SaaS on AWS. Manage cloud infrastructure, databases, CI/CD, and security. |
-| 🧵 **Backend Developer** — [eSARTOR](https://www.esartor.com/) (2024–present) | Developed backend APIs, database architecture, and server infrastructure for a SaaS tailoring platform. |
-| 💼 **Customer Service Representative** — ClearSource (2023–2025) | Technical support, troubleshooting, and multilingual client assistance (French, English, Creole). |
-| 🏢 **Founder** — Votre Équipe (Marketing Agency) | Scaled client acquisition and campaign management. |
-| 🌍 **Captain, Haiti Team** — [FIRST Global Challenge 2019](https://first.global/2019-nations/haiti-2019/) | Led a team of engineers competing against 191+ countries in international robotics competition (Dubai). |
+|------|---------|
+| **Full-Stack Developer** -- ViraLaunch AI (2025--present) | Built and deployed production SaaS on AWS. 4 microservices, 25 DB models, 12 AI agents, 9 video styles. |
+| **Lead Developer** -- PropaneGo (2024--present) | Flutter mobile app + Laravel backend for gas delivery in the Dominican Republic. Firebase, WebSockets, real-time tracking. |
+| **Backend Developer** -- [eSARTOR](https://www.esartor.com/) (2024--present) | APIs, database architecture, and server infrastructure for a SaaS tailoring platform. |
+| **Customer Service Rep** -- ClearSource (2023--2025) | Technical support and troubleshooting. Multilingual: English, Haitian Creole, French. |
+| **Founder** -- Votre Equipe (Marketing Agency) | Client acquisition, social media campaigns, AI-powered appointment setting. |
+| **Team Captain, Haiti** -- [FIRST Global Challenge 2019](https://first.global/2019-nations/haiti-2019/) | Led robotics team competing against 191+ countries in Dubai. |
 
 ---
 
-## ✨ More About Me
+## About Me
 
-| | |
-| --- | --- |
-| 🌐 **Languages** | Fluent in **English**, **French** (native), and **Haitian Creole** |
-| 📱 **Self-taught** | Despite limited access to electricity and internet, I kept learning and built two mobile apps: **NS** (school repository) and **TPA** (freelance marketplace). |
-| 🎯 **Goal** | Contribute to large-scale IT infrastructure and digital transformation projects in Quebec |
+|   |   |
+|---|---|
+| **Languages** | Fluent in **English**, **Haitian Creole**, and **French** |
+| **Background** | Self-taught developer from Haiti. Built two mobile apps despite limited electricity and internet access. |
+| **Goal** | Build impactful digital products with teams that value quality and innovation |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -143,7 +148,7 @@
 
 <div align="center">
 
-**Building production infrastructure, learning by doing, and staying focused on what matters.**
+**Building production software, learning by doing, and shipping what matters.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Miken2001&color=blueviolet&style=for-the-badge)
 

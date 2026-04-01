@@ -2,19 +2,27 @@
 
 # Hi, I'm Mikenson
 
-### Full-Stack Developer
+### Full-Stack Developer | Backend Engineer | AI & Automation Builder
 
-*I build complete digital products -- from UI to backend to cloud infrastructure.*
+*I build production systems end-to-end -- from backend APIs and databases to AI agents and automated pipelines.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mikenson.bubbleapps.io/version-test)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesidormikenson@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikenson-mesidor-6628ab1a9/)
 
 ![Currently Building](https://img.shields.io/badge/Currently_Building-ViraLaunch_AI-111111?style=for-the-badge&logo=github&logoColor=white)
-[![eSARTOR](https://img.shields.io/badge/Backend_Dev-eSARTOR-FF6B35?style=for-the-badge&logo=node.js&logoColor=white)](https://www.esartor.com/)
-![Focus](https://img.shields.io/badge/Focus-Full--Stack_%26_DevOps-0A66C2?style=for-the-badge)
-![Location](https://img.shields.io/badge/Based_in-Haiti-E31B23?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Backend_%7C_AI_%26_Automation-0A66C2?style=for-the-badge)
+![Location](https://img.shields.io/badge/Remote-Worldwide-00C853?style=for-the-badge)
 
 </div>
+
+---
+
+## What I Do
+
+- **Backend Engineering** -- Design and build scalable APIs, microservices, database architectures, and real-time systems
+- **AI & Automation** -- Build multi-agent AI systems, workflow automation (n8n, cron-based schedulers), and LLM-powered pipelines
+- **Infrastructure & DevOps** -- Deploy and manage production systems on AWS, GCP, Docker, Linux VPS, with CI/CD and monitoring
 
 ---
 
@@ -23,31 +31,35 @@
 ### [ViraLaunch AI](https://viralaunch.ai) -- Full-Stack Developer & Infrastructure Admin
 **Production SaaS platform** -- AI-powered social media content creation with automated video generation, intelligent scheduling, and multi-platform posting. Live with paying customers.
 
-**What I built:**
-- React 19 frontend (146 components) with TypeScript, Tailwind CSS, GSAP animations, and Recharts dashboards
+**Backend & Architecture:**
 - Express.js + TypeScript backend with 18 REST API controllers and 40+ service modules
-- PostgreSQL database with 25 Prisma models, Redis caching and job queues
+- PostgreSQL database (25 Prisma models) with Redis caching and Bull job queues
 - Stripe payment integration with 3-layer idempotency and webhook handling
-- OAuth flows for 6 social platforms (Google, Facebook, TikTok, Instagram, Twitter/X, GitHub)
-- 12-agent AI pipeline (Python + FastAPI) for content research and generation
-- Video generation service (Remotion) with 9 styles, TTS, and auto-captions -- $0 per video
-- Bull/Redis automation: 10 job processors + 10 cron schedules
-- JWT authentication (AWS Cognito), referral system, credit system, waitlist with drip emails
+- OAuth 2.0 flows for 6 social platforms (Google, Facebook, TikTok, Instagram, Twitter/X, GitHub)
+- JWT authentication (AWS Cognito), referral system, credit system, email drip campaigns (SES)
+
+**AI & Automation:**
+- 12-agent AI research pipeline (Python + FastAPI + Gemini) for content strategy and generation
+- Multi-agent marketing system with autonomous task execution, WhatsApp integration, and scheduled posting
+- Automated workflow engine: 10 Bull/Redis job processors + 10 cron schedules for background automation
+- Video generation service (Remotion) with 9 styles, TTS (Kokoro), and auto-captions (Whisper) -- $0/video
 
 **Infrastructure:**
 - AWS: Elastic Beanstalk, RDS PostgreSQL, ElastiCache Redis, Amplify, SES, Cognito
-- Google Cloud Run (agent + video service), Docker multi-stage builds, CI/CD pipelines
-- VPS management (Debian server administration)
+- Google Cloud Run (AI agent + video service), Docker multi-stage builds, CI/CD pipelines
+- Debian VPS administration, CDP Chrome automation, systemd service management
+
+**Frontend:** React 19 (146 components), TypeScript, Tailwind CSS, GSAP animations, Recharts
 
 ---
 
 ### [PropaneGo](https://github.com/Propaneg) -- Lead Developer
-**Gas delivery platform** for the Dominican Republic with real-time tracking, virtual debit card payments, and fleet management.
+**Gas delivery platform** for the Dominican Republic with real-time tracking and virtual debit card payments.
 
 - **Flutter** cross-platform mobile app with **WebSocket** real-time delivery tracking
 - **Laravel (PHP)** backend with RESTful APIs for orders and driver dispatch
-- **Firebase** integration for auth and real-time data sync
-- **Node.js** services, PostgreSQL, Lithic API (virtual debit cards)
+- **Firebase** for auth and real-time sync | **Node.js** services | PostgreSQL
+- **Lithic API** virtual debit card payment pipeline
 - Admin panel for fleet and order management
 
 Repos: [Website](https://github.com/Propaneg/propanegowebsite) | [Mobile App](https://github.com/Propaneg/propanegoapp) | [Admin Panel](https://github.com/Propaneg/propanego-panel)
@@ -59,44 +71,55 @@ Repos: [Website](https://github.com/Propaneg/propanegowebsite) | [Mobile App](ht
 
 - RESTful APIs for customer-tailor matching and order management
 - Database architecture and data modeling (PostgreSQL)
-- Payment system integration and order flow
+- Payment system integration and server infrastructure
 - Tech: **Node.js, Express, TypeScript, Laravel (PHP), PostgreSQL**
 
 ---
 
 ## Tech Stack
 
-### Languages & Frameworks
+### Backend & Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Frontend & Styling
+### AI & Automation
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Bull](https://img.shields.io/badge/Bull_Queue-CC0000?style=for-the-badge&logo=redis&logoColor=white)
+![Remotion](https://img.shields.io/badge/Remotion-5851DB?style=for-the-badge&logo=react&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
-### Databases & Backend
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 ### Infrastructure & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Payments & Integrations
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-1C1E26?style=for-the-badge&logo=posthog&logoColor=F54E00)
 
 ---
 
@@ -113,11 +136,11 @@ Repos: [Website](https://github.com/Propaneg/propanegowebsite) | [Mobile App](ht
 
 | Role | Details |
 |------|---------|
-| **Full-Stack Developer** -- ViraLaunch AI (2025--present) | Built and deployed production SaaS on AWS. 4 microservices, 25 DB models, 12 AI agents, 9 video styles. |
-| **Lead Developer** -- PropaneGo (2024--present) | Flutter mobile app + Laravel backend for gas delivery in the Dominican Republic. Firebase, WebSockets, real-time tracking. |
-| **Backend Developer** -- [eSARTOR](https://www.esartor.com/) (2024--present) | APIs, database architecture, and server infrastructure for a SaaS tailoring platform. |
+| **Full-Stack Developer** -- ViraLaunch AI (2025--present) | Production SaaS on AWS/GCP. 4 microservices, 25 DB models, 12 AI agents, automated posting engine, multi-agent marketing system. |
+| **Lead Developer** -- PropaneGo (2024--present) | Flutter mobile app + Laravel backend. Real-time tracking (WebSockets), virtual debit cards (Lithic API). |
+| **Backend Developer** -- [eSARTOR](https://www.esartor.com/) (2024--present) | APIs, database architecture, payment integration, server infrastructure for SaaS tailoring platform. |
 | **Customer Service Rep** -- ClearSource (2023--2025) | Technical support and troubleshooting. Multilingual: English, Haitian Creole, French. |
-| **Founder** -- Votre Equipe (Marketing Agency) | Client acquisition, social media campaigns, AI-powered appointment setting. |
+| **Founder** -- Votre Equipe (Marketing Agency, 2023) | Client acquisition, social media campaigns, AI-powered appointment setting (Air.ai). |
 | **Team Captain, Haiti** -- [FIRST Global Challenge 2019](https://first.global/2019-nations/haiti-2019/) | Led robotics team competing against 191+ countries in Dubai. |
 
 ---
@@ -128,7 +151,8 @@ Repos: [Website](https://github.com/Propaneg/propanegowebsite) | [Mobile App](ht
 |---|---|
 | **Languages** | Fluent in **English**, **Haitian Creole**, and **French** |
 | **Background** | Self-taught developer from Haiti. Built two mobile apps despite limited electricity and internet access. |
-| **Goal** | Build impactful digital products with teams that value quality and innovation |
+| **Availability** | Open to worldwide remote opportunities |
+| **Goal** | Build impactful products with teams that value quality, autonomy, and shipping |
 
 ---
 

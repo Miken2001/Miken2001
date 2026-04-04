@@ -123,15 +123,6 @@ Repos: [Website](https://github.com/Propaneg/propanegowebsite) | [Mobile App](ht
 
 ---
 
-## Certifications
-
-| Status | Certification |
-|--------|---------------|
-| Completed | **Google Cybersecurity Professional Certificate** (Coursera, 2025) |
-| In Progress | **CompTIA Security+** |
-
----
-
 ## Experience
 
 | Role | Details |
@@ -139,7 +130,7 @@ Repos: [Website](https://github.com/Propaneg/propanegowebsite) | [Mobile App](ht
 | **Full-Stack Developer** -- ViraLaunch AI (2025--present) | Production SaaS on AWS/GCP. 4 microservices, 25 DB models, 12 AI agents, automated posting engine, multi-agent marketing system. |
 | **Lead Developer** -- PropaneGo (2024--present) | Flutter mobile app + Laravel backend. Real-time tracking (WebSockets), virtual debit cards (Lithic API). |
 | **Backend Developer** -- [eSARTOR](https://www.esartor.com/) (2024--present) | APIs, database architecture, payment integration, server infrastructure for SaaS tailoring platform. |
-| **Customer Service Rep** -- ClearSource (2023--2025) | Technical support and troubleshooting. Multilingual: English, Haitian Creole, French. |
+| **Customer Service Rep** -- Arise & others (2022--2025) | Technical support and troubleshooting. Multilingual: English, Haitian Creole, French. |
 | **Founder** -- Votre Equipe (Marketing Agency, 2023) | Client acquisition, social media campaigns, AI-powered appointment setting (Air.ai). |
 | **Team Captain, Haiti** -- [FIRST Global Challenge 2019](https://first.global/2019-nations/haiti-2019/) | Led robotics team competing against 191+ countries in Dubai. |
 

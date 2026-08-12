@@ -2,7 +2,7 @@
 
 # Hi, I'm Mikenson
 
-### Full-Stack Developer | Backend Engineer | AI & Automation Builder
+### Backend Engineer | AI & Automation Builder
 
 *I build production systems end-to-end -- from backend APIs and databases to AI agents and automated pipelines.*
 

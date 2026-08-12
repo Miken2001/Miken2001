@@ -6,7 +6,7 @@
 
 *I build production systems end-to-end -- from backend APIs and databases to AI agents and automated pipelines.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mikenson.bubbleapps.io/version-test)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://viralaunch.ai/mikenson)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesidormikenson7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikenson-mesidor-6628ab1a9/)
 

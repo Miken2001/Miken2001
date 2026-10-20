@@ -2,7 +2,7 @@
 
 # Hi, I'm Mikenson
 
-Currently Building [ViraLaunch AI](https://viralaunch.ai). Previously backend at [eSARTOR](https://www.esartor.com/).
+Currently Building [ViraLaunch AI](https://viralaunch.ai). ex-backend dev at [eSARTOR](https://www.esartor.com/).
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://viralaunch.ai/mikenson)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesidormikenson7@gmail.com)
@@ -80,7 +80,3 @@ Upwork-style gig marketplace for Haitians.
 ![PostHog](https://img.shields.io/badge/PostHog-1C1E26?style=for-the-badge&logo=posthog&logoColor=F54E00)
 
 ---
-
-## GitHub Activity
-
-![GitHub Activity](./activity.svg)

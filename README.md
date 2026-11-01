@@ -46,7 +46,7 @@ My GitHub account dates from 2020, but I was building before that without using 
 | 2020 | [509jobs](https://github.com/Miken2001/509jobs) · [cs-ionic](https://github.com/Miken2001/cs-ionic) | HTML/CSS/JS · Ionic |
 | 2021 | [Edunet — education + blockchain](https://github.com/Miken2001/edunet): [edchain](https://github.com/Miken2001/edchain), [edunet-token](https://github.com/Miken2001/edunet-token), [edunet-ico](https://github.com/Miken2001/edunet-ico), [edunet-wallet](https://github.com/Miken2001/edunet-wallet) | Python, Solidity, Truffle, Flutter |
 | 2021 | [eth-marketplace](https://github.com/Miken2001/eth-marketplace) · [dapp-token-sale](https://github.com/Miken2001/dapp-token-sale) · [react-test](https://github.com/Miken2001/react-test) | React, Solidity |
-| 2021–2023 | [Club Social Haïti](https://github.com/Miken2001/clubsocialhaiti) · [IUSTH sites](https://github.com/Miken2001/iusth-sites) · [Enyleve](https://github.com/Miken2001/enyleve) | WordPress, Bluehost, DNS |
+| 2021–2023 | [Club Social Haïti](https://github.com/Miken2001/clubsocialhaiti) · IUSTH sites (private) · [Enyleve](https://github.com/Miken2001/enyleve) | WordPress, Bluehost, DNS |
 
 ---
 

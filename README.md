@@ -21,7 +21,7 @@ Currently building [ViraLaunch AI](https://viralaunch.ai).  Backend dev at [eSAR
 ### [ViraLaunch AI](https://viralaunch.ai)
 AI content and video automation for social media.
 
-### [PropaneGo](https://github.com/Propaneg)
+### [PropaneGo](https://propanego.ai/)
 Gas delivery app for the Dominican Republic.
 
 ### [eSARTOR](https://www.esartor.com/)
